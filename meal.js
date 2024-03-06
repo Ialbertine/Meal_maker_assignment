@@ -50,6 +50,5 @@ Object.defineProperty(menu, 'todaysSpecial', {
     }
   },
 });
-
-// Step 11: Use the getter method to log Today's Special
+// the getter method used to display the todays special meal to the user
 console.log(menu.todaysSpecial);
